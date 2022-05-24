@@ -1,7 +1,7 @@
-![](https://github.com/ChristopherSterza/ChristopherSterza/blob/main/readmeBanner.png)
+<!-- ![](https://github.com/ChristopherSterza/ChristopherSterza/blob/main/readmeBanner.png) -->
 
 # About Me
-My name is Christopher Sterza and I'm a soon-to-be Computer Science graduate from the University of California, Santa Cruz.
+Hi there! My name is Christopher Sterza and I'm a soon-to-be Computer Science graduate from the University of California, Santa Cruz.
 
 I'm learning more about software development each and every day, and I hope to be able to create some meaningful software in the near future.
 
