@@ -18,9 +18,8 @@ This page is currently a work in progress, but right now:
 # Here are some of my stats
 ![ChristopherSterza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopherSterza&show_icons=true&theme=gruvbox)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gruvbox)](https://git.io/streak-stats)
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherSterza&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
---->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherSterza&langs_count=10&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **ChristopherSterza/ChristopherSterza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
