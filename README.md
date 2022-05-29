@@ -1,4 +1,4 @@
-<!-- ![](https://github.com/ChristopherSterza/ChristopherSterza/blob/main/readmeBanner.png) -->
+<!-- ![](https://github.com/ChristopherSterza/ChristopherSterza/blob/main/readmeBanner.png) --> 
 ![](https://github.com/ChristopherSterza/ChristopherSterza/blob/main/ProfileHeader.png)
 
 # About Me
